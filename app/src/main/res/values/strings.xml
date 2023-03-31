@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson2_month6</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="send">Send</string>
+    <string name="your_selected_photos">Your Selected Photos</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="data_image" >image</string>
+</resources>
